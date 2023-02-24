@@ -1,1 +1,1 @@
-return {"key"}
+return "return {8O1q5UOpK3OJsEdWVfxc}"
