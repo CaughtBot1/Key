@@ -1,1 +1,1 @@
-return {4XLOSdVfJdquQCKwzkAg}
+return {"key"}
